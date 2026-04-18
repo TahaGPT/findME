@@ -45,3 +45,4 @@ Once the server is running, visit:
 - `app/services`: Core logic (Face processing, Identity matching, Crawler).
 - `data/images`: Target directory for photo ingestion.
 - `scripts`: Database initialization and maintenance scripts.
+# Vyro-Backend
