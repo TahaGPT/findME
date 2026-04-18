@@ -1,0 +1,5 @@
+FROM python:3.10-slim
+RUN pip install sqlalchemy psycopg2-binary pgvector python-dotenv
+WORKDIR /app
+COPY . .
+CMD ["python", "scripts/init_db.py"]

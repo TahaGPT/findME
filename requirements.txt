@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pgvector
+psycopg2-binary
+pydantic-settings
+python-dotenv
+python-multipart
+deepface
+tf-keras
+opencv-python-headless
+numpy

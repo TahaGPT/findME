@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Project specific
+data/
+*.jpg
+*.jpeg
+*.png
+temp_*.jpg
+
+# Docker
+.dockerignore
+
+# OS files
+.DS_Store
+Thumbs.db
