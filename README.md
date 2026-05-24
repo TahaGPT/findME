@@ -1,6 +1,6 @@
-# Vyro-Backend: Grabpic (Intelligent Identity & Retrieval Engine)
+# findME (Intelligent Identity & Retrieval Engine)
 
-Vyro-Backend is a high-performance image processing engine designed for large-scale events like marathons. It automatically indexes faces and allows participants to find their photos using a single selfie.
+findME is a high-performance image processing engine designed for large-scale events like marathons. It automatically indexes faces and allows participants to find their photos using a single selfie.
 
 ## Features
 - **Zero-Registration Identity**: Automatically discovers and clusters unique identities from raw images.
